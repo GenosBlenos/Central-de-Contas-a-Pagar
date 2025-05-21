@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GenosBlenos/Central-de-Contas-a-Pagar/issues"
   },
-  "homepage": "https://github.com/GenosBlenos/Central-de-Contas-a-Pagar#readme"
+  "homepage": "https://github.com/GenosBlenos/Central-de-Contas-a-Pagar#readme",
+  "dependencies": {
+    "firebase": "^11.7.3"
+  }
 }
